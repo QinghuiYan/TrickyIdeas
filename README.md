@@ -1,2 +1,2 @@
 # Tricks
-# This is a collection on tricky ideas.
+# This is a collection of tricky ideas.
