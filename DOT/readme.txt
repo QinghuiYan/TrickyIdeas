@@ -1,0 +1,1 @@
+I am amazed by the video game Fez, especially by the DOT, a 4D cubic Navi in the game. I reproduced it in 3 point perspective, but it turned out the game performs 1 point perspective. My friend made it at last.
